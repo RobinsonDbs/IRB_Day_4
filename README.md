@@ -4,7 +4,7 @@
 
 Entre ton prénom pour qu'on te dise bonjour.
 
-## `(lib/01_pyramids.rb)[lib/01_pyramids.rb]`
+## (lib/01_pyramids.rb)[lib/01_pyramids.rb]
 
 Entre les tailles que tu souhaites pour tes 3 pyramides :
 
