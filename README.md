@@ -1,6 +1,6 @@
 # IRB_Day_4 d'Olivier Cardinaux (@OCardinaux) et Robinson Dubois (Robinson)
 
-## `lib/00_hello.rb`
+## [lib/00_hello.rb](lib/00_hello.rb)
 
 Entre ton prénom pour qu'on te dise bonjour.
 
@@ -12,11 +12,11 @@ Entre les tailles que tu souhaites pour tes 3 pyramides :
 * full_pyramid
 * WTF_pyramid
 
-## `lib/02_password.rb`
+## [lib/02_password.rb](lib/02_password.rb)
 
 Créé un password, puis entre le pour accéder à la page de la nsa...
 
-## `lib/03_stairway.rb`
+## [lib/03_stairway.rb](lib/03_stairway.rb)
 
 Jeu : combien de tours pour arriver en haut des 10 marches ?
 
